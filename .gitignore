@@ -1,3 +1,9 @@
 bert_tokenizer/
 corpus/
 mini_bert/
+models/
+tokenizers/
+temp_dir/
+trainer_output/
+bert_tokenizer_uncased/
+venv/
