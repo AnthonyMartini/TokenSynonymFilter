@@ -7,3 +7,4 @@ temp_dir/
 trainer_output/
 bert_tokenizer_uncased/
 venv/
+mappings/
